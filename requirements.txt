@@ -4,4 +4,3 @@ scipy
 pandas
 plotly
 fpdf2
-math
