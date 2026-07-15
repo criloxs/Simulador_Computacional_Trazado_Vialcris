@@ -1,3 +1,4 @@
+
 """
 Funciones numéricas para el Simulador Computacional de Trazado Vial.
 
